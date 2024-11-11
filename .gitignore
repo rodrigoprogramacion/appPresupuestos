@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+*.pyc
+__pycache__/
+db.sqlite3
+/media/
+*.log
+
+# Archivos de configuración específicos del sistema operativo
+*.DS_Store
+
+# Archivos relacionados con VSCode (opcional)
+.vscode/
